@@ -1,0 +1,53 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+tmp/
+logs/
+
+# Package dependencies
+node_modules/
+vendor/
+build/
+dist/
+
+# IDE and code editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache and build files
+*.o
+*.obj
+*.pyc
+*.class
+*.exe
+*.dll
+*.so
+
+# Environment variables
+.env
+.env.local
+venv/
+
+# Compression files
+*.zip
+*.tar
+*.rar
+
+# Credential files
+*.pem
+*.key
+.htpasswd
+
+# User configuration files
+config.json
+.user.config
+
+# Upload directory
+/uploads/
